@@ -3,10 +3,10 @@ import prompt
 
 ROUNDS_TO_WIN = 3
 
+
 def run_game(game):
     
     name = welcome_user()
-    
     
     print(game.RULE)
 
