@@ -3,12 +3,12 @@
 
 ### Демонстрация игры
 
-https://asciinema.org/a/tpwkWB2aIFdkkP0wC49EQXuli ### brain-even
+https://asciinema.org/a/i35IIT8e8hLMSHM1hW1Y5X22U
 
-https://asciinema.org/a/2kFIWdI3BIyzWJ6tX83bvjqig ### brain-calc
+https://asciinema.org/a/DlIxsMpRLni4GpPrgARQMKfNN
 
-https://asciinema.org/a/djExW1r0oIFGnSeIwuad69QEX ### brain-gcd
+https://asciinema.org/a/jbzhxneqOXMn1EswTaQK1L0FY
 
-https://asciinema.org/a/cOODBWk8uSUD1Y4ttkoI2Nl1g ### brain-progression
+https://asciinema.org/a/nv6KEAvIrJwbgZcOpFODnAqZV
 
-https://asciinema.org/a/oMKugNR3NnK9Nx2sen9ECIs1t ### brain-prime
+https://asciinema.org/a/MfU5VMaUMePDTk3Pyz7kE4GWO
