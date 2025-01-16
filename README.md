@@ -19,27 +19,38 @@
 - Менеджер пакетов uv
 
 
-## Установка
+# Установка
 
 1. Клонируйте репозиторий:
 git clone https://github.com/Abu2205/python-project-49.git
 cd python-project-49
-# Сборка пакета
+
+
+## Сборка пакета
+
 uv build
-# Установка пакета
+
+
+## Установка пакета
+
 uv sync
 
 
-### Демонстрация игры
-# Чтобы запустить игру, просто введите команды
+## Чтобы запустить игру, просто введите команды
 brain-games
+
 brain-even
+
 brain-gcd
+
 brain-calc
+
 brain-progression
+
 Отвечайте на вопросы правильно, чтобы выиграть игру. Если вы ошиблись, вы всегда можете попробовать еще раз!
 
 
+# Демонстрация игры
 [![asciinema](https://asciinema.org/a/i35IIT8e8hLMSHM1hW1Y5X22U.svg)](https://asciinema.org/a/i35IIT8e8hLMSHM1hW1Y5X22U)
 
 
@@ -49,7 +60,7 @@ brain-progression
 [![asciinema](https://asciinema.org/a/jbzhxneqOXMn1EswTaQK1L0FY.svg)](https://asciinema.org/a/jbzhxneqOXMn1EswTaQK1L0FY)
 
 
-[![asciinema](https://asciinema.org/a/nv6KEAvIrJwbgZcOpFODnAqZV)](https://asciinema.org/a/nv6KEAvIrJwbgZcOpFODnAqZV)
+[![asciinema](https://asciinema.org/a/nv6KEAvIrJwbgZcOpFODnAqZV.svg)](https://asciinema.org/a/nv6KEAvIrJwbgZcOpFODnAqZV)
 
 
 [![asciinema](https://asciinema.org/a/MfU5VMaUMePDTk3Pyz7kE4GWO.svg)](https://asciinema.org/a/MfU5VMaUMePDTk3Pyz7kE4GWO)
