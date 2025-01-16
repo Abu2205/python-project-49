@@ -3,3 +3,8 @@ __pycache__
 dist
 .cli.py.swp
 brain-gcd.cast
+brain_games/engine.py
+brain-calc.cast
+brain-even.cast
+brain-prime.cast
+brain-progression.cast
