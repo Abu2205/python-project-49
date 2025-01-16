@@ -2,11 +2,9 @@
 [![Actions Status](https://github.com/Abu2205/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Abu2205/python-project-49/actions)
 
 # Brain Games
-# Игры для ума
 
 Набор интерактивных консольных игр для тренировки мозга.
 
----
 
 ## Особенности
 
@@ -14,12 +12,12 @@
 - Простой и интуитивно понятный интерфейс.
 - Легко установить и играть прямо из терминала.
 
----
 
 ## Минимальные требования
 
 - Python 3.8 или выше.
 - Менеджер пакетов uv
+
 
 ## Установка
 
@@ -31,15 +29,15 @@ uv build
 # Установка пакета
 uv sync
 
+
 ### Демонстрация игры
 # Чтобы запустить игру, просто введите команды
- можете попробовать еще раз!
 brain-games
 brain-even
 brain-gcd
 brain-calc
 brain-progression
-Отвечайте на вопросы правильно, чтобы выиграть игру. Если вы ошиблись, вы всегда
+Отвечайте на вопросы правильно, чтобы выиграть игру. Если вы ошиблись, вы всегда можете попробовать еще раз!
 
 
 [![asciinema](https://asciinema.org/a/i35IIT8e8hLMSHM1hW1Y5X22U.svg)](https://asciinema.org/a/i35IIT8e8hLMSHM1hW1Y5X22U)
